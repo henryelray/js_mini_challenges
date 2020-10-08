@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.page-title{
+    text-align: center;
+    margin-top:1em;
+    font-size:2em;
+}
+.container{
+   height:auto;
+   width:30%;
+   margin:3em auto;
+}
+input{
+    padding:8px 10px;
+    margin:8px 0;
+    width:100%;
+}
+.name-list{
+    margin-top: 3em;
+}
+
+.name-list li{
+    list-style-type: none;
+    box-shadow: 0 4px 8px 0 #eee;
+    width:100%;
+}
+.letter{
+    color:dodgerblue;
+}
